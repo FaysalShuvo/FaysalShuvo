@@ -2,8 +2,8 @@
 <p align='center'>
 You Know My name but i do not know yours so 
 </p>
-<p align='center'> reach out over on <a href="https://www.facebook.com/faysalislamsh">Facebook</a>.</p>
-<p align='center'> reach out over on <a href="https://www.linkedin.com/in/md-faysal-islam-shuvo/">Linkedin</a>.</p>
+<div align='center'> reach out over on <a href="https://www.facebook.com/faysalislamsh">Facebook</a> <a href="https://www.linkedin.com/in/md-faysal-islam-shuvo/">Linkedin</a></div>
+
 <p align='center'>
   and say hello to me!! 
 </p>
