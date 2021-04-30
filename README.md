@@ -2,8 +2,8 @@
 <h3 align='center'>I am Md. Faysal Islam Shuvo</h3>
 <p align='center'>
 I am a full stack web developer. </br>
-   <strong>Languages and Technologies</strong>
-Expertise: JavaScript, React.js, React Bootstrap, Bootstrap5, HTML5, CSS3, Node.js, Express.js, MongoDB, Familiar: Redux.js, React Native, Typescript, Material UI, Redux.js, SASS 
+   <strong>Languages and Technologies</strong> </br>
+Expertise: JavaScript, React.js, React Bootstrap, Bootstrap5, HTML5, CSS3, Node.js, Express.js, MongoDB,  </br>Familiar: Redux.js, React Native, Typescript, Material UI, Redux.js, SASS  </br>
 Tools: GitHub, VS Code, Sublime Text, Notepad++, Chrome 
 Dev tool, Firebase, Netlify, Heroku 
 
