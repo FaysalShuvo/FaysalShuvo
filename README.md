@@ -8,10 +8,10 @@ Tools: GitHub, VS Code, Sublime Text, Notepad++, Chrome
 Dev tool, Firebase, Netlify, Heroku 
 
 </p>
-<div align='center'> reach out over on <a href="https://www.facebook.com/faysalislamsh">Facebook</a> <a href="https://www.linkedin.com/in/md-faysal-islam-shuvo/">Linkedin</a></div>
+<div align='center'> reach out over on <a href="https://www.linkedin.com/in/md-faysal-islam-shuvo/">Linkedin</a> <a href="https://www.facebook.com/faysalislamsh">Facebook</a></div>
 
 <p align='center'>
   and say hello to me!! 
 </p>
-<h1 align='center'><i>#Sh</i></h1>
-<h1 align='center'><i>#Peace</i></h1>
+<h1 align='center'><i>email: shuvonma57@gmail.com</i></h1>
+
