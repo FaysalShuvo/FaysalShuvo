@@ -1,6 +1,6 @@
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
-You Know My name but i do not know yours so 
+I am a full stack web developer.
 </p>
 <div align='center'> reach out over on <a href="https://www.facebook.com/faysalislamsh">Facebook</a> <a href="https://www.linkedin.com/in/md-faysal-islam-shuvo/">Linkedin</a></div>
 
