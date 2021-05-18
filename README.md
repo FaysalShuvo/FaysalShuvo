@@ -3,7 +3,7 @@
 <p align='center'>
 I am a full stack web developer. </br>
    <strong>Languages and Technologies</strong> </br>
-<bold>Expertise:</bold> JavaScript, React.js, React Bootstrap, Bootstrap5, HTML5, CSS3, Node.js, Express.js, MongoDB,  </br>Familiar: Redux.js, React Native, Typescript, Material UI, Redux.js, SASS  </br>
+<bold>Expertise:</bold>HTML5, CSS3, JavaScript, React.js, React Bootstrap, Bootstrap5,  </br>Familiar:  Node.js, Express.js, MongoDB, Redux.js, React Native, Typescript, Material UI, Redux.js, SASS  </br>
 Tools: GitHub, VS Code, Sublime Text, Notepad++, Chrome 
 Dev tool, Firebase, Netlify, Heroku 
 
